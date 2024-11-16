@@ -16,11 +16,11 @@ An AI-powered tool for processing and summarizing long-form audio content.
 
 🚀 Key Features
 
-- 🎯 Speaker Diarization**: Automatically identifies different speakers
-- 🗣️ Speech-to-Text**: Accurate transcription using OpenAI Whisper
-- ✨ Smart Summarization**: GPT-powered content summarization
-- 🔊 Voice Synthesis**: Natural voice generation with ElevenLabs
-- 📊 Comparison Tool**: Generate before/after comparisons
+- 🎯 **Speaker Diarization**: Automatically identifies different speakers
+- 🗣️ **Speech-to-Text**: Accurate transcription using OpenAI Whisper
+- ✨ **Smart Summarization**: GPT-powered content summarization
+- 🔊 **Voice Synthesis**: Natural voice generation with ElevenLabs
+- 📊 **Comparison Tool**: Generate before/after comparisons
 
 📋 Requirements
 
