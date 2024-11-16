@@ -1,0 +1,12 @@
+# Basics
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Keep API keys private
+config.py
+
+# Audio files
+*.mp3
+*.wav
